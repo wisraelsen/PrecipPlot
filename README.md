@@ -1,7 +1,7 @@
 # PrecipPlot
-Python AWS Lambda function for plotting selected personal weather station data with the upcoming 7 day temperature and precipitation forecast
+**Python AWS Lambda function for plotting personal weather station data and forecast data from Weather Underground.**
 
-#### This is a personal data science project, which you can see [here](https://israelsenlab.org/precipplot.html) on my personal webpage (once I get around to finishing my updates.
+**This is a personal data science project, which you can see [here](https://israelsenlab.org/precipplot.html) on my personal webpage (once the updated version goes live).**
 
 This project uses:
 - a Weather Underground account 
